@@ -1,7 +1,7 @@
 {
-	"name": "jPlayer",
-	"version": "2.9.2",
-	"description": "The jQuery HTML5 Audio / Video Library. Allows you to create a media player with a consistent interface and experience across all browsers.",
+	"name": "jPlayerClassID",
+	"version": "2.9.3",
+	"description": "The jQuery HTML5 Audio / Video Library. Allows you to create a media player with a consistent interface and experience across all browsers.Fix ie9/ie10 classid error behind proxy",
 	"author": {
 		"name": "Mark J Panaghiston",
 		"email": "markp@happyworm.com",
@@ -19,7 +19,7 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/happyworm/jPlayer.git"
+		"url": "https://github.com/Lupennat/jPlayer"
 	},
 	"main": [
 		"./dist/jplayer/jquery.jplayer.js",
